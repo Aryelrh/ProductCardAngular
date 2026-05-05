@@ -2,9 +2,10 @@
   "name": "product-card-angular",
   "version": "0.0.0",
   "scripts": {
+    "dev": "vite",
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "vite build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
